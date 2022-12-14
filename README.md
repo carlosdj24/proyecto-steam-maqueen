@@ -1,6 +1,6 @@
 # proyecto-steam-maqueen
 
-[0.- [Introduccion](Contenidos/introduccion.md)
+[0.- Introduccion](Contenidos/introduccion.md)
 
 [1.- Módulo1:](descripcion/montaje.md)
 
